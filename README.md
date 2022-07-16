@@ -26,9 +26,12 @@ The chosen assets for this analysis are the following ETFs:
 11. BTC: Bitcoin
 12. ETH: Ethereum 
 
-The algorithn optimizes by risk adjusted weight at the asset allocation. At the asset level, a second type of algorithm, a trading algorithm seeks to maximize the return of the asset by trading on the signals of price change for different hourly/daily periods and market volatility as represented by VIX. Trading algorithms are the authors IP and will not be shared, though results will be presented in the writeup section. 
+The algorithn optimizes by risk adjusted weight at the asset allocation. At the asset level, a second type of algorithm, a trading algorithm seeks to maximize the return of the asset by trading on the signals of price change for different hourly/daily periods and market volatility as represented by VIX. 
+This repository is divided in three sections: 
 
-This repository is divided in four sections: 
-1. Data: the compiled csv data to run the workbooks
+1. Data: the compiled csv data to run the notebooks
 2. Analysis: the python notebooks
-3. Writeumps
+3. Results: the writeup reports 
+
+Trading algorithms are the authors IP and will not be shared, though results will be presented section 3. 
+
