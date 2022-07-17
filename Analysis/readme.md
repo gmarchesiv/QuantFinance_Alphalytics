@@ -8,5 +8,6 @@ Using the Leading Economic Index produced by the Conference Board, I identify pa
 ## List of notebooks
 1. Generating_Economic_Dataset: calculates 1m, 3m and 6m changes in the LEI and the signs of those changes to create a new dataset. 
 2. LEI_deltas_vs_NBER_data: contrasts magnitude in LEI changes to NBER classification of "expansion" or "contraction" 
-3. Cycle_vs_SP500:
-4. Cycle_vs_LEI:
+3. Four_stages_cycle: identifies the four stages of the cycle according to the patterns emerging from 1m, 3m and 6m changes in LEI
+4. Cycle_vs_SP500:
+5. Cycle_vs_LEI:
