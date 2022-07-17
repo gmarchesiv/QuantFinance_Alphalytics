@@ -1,0 +1,451 @@
+month;close;color
+Ene-85;179.63;dark green
+Feb-85;181.18;dark green
+Mar-85;180.66;dark green
+Abr-85;179.83;dark green
+May-85;189.55;dark green
+Jun-85;191.85;dark green
+Jul-85;190.92;dark green
+Ago-85;188.63;dark green
+Set-85;182.08;dark green
+Oct-85;189.82;dark green
+Nov-85;202.17;dark green
+Dic-85;211.28;dark green
+Ene-86;211.78;dark green
+Feb-86;226.92;dark green
+Mar-86;238.9;dark green
+Abr-86;235.52;dark green
+May-86;247.35;dark green
+Jun-86;250.84;dark green
+Jul-86;236.12;dark green
+Ago-86;252.93;dark green
+Set-86;231.32;dark green
+Oct-86;243.98;dark green
+Nov-86;249.22;dark green
+Dic-86;242.17;dark green
+Ene-87;274.08;dark green
+Feb-87;284.2;dark green
+Mar-87;291.7;dark green
+Abr-87;288.36;dark green
+May-87;290.1;dark green
+Jun-87;304;dark green
+Jul-87;318.66;dark green
+Ago-87;329.8;dark green
+Set-87;321.83;dark green
+Oct-87;251.79;dark green
+Nov-87;230.3;dark green
+Dic-87;247.08;dark green
+Ene-88;257.07;dark green
+Feb-88;267.82;dark green
+Mar-88;258.89;dark green
+Abr-88;261.33;dark green
+May-88;262.16;dark green
+Jun-88;273.5;dark green
+Jul-88;272.02;dark green
+Ago-88;261.52;dark green
+Set-88;271.91;dark green
+Oct-88;278.97;dark green
+Nov-88;273.7;dark green
+Dic-88;277.72;dark green
+Ene-89;297.47;dark green
+Feb-89;288.86;dark green
+Mar-89;294.87;dark green
+Abr-89;309.64;dark green
+May-89;320.52;dark green
+Jun-89;317.98;orange
+Jul-89;346.08;orange
+Ago-89;351.45;orange
+Set-89;349.15;orange
+Oct-89;340.36;orange
+Nov-89;345.99;orange
+Dic-89;353.4;orange
+Ene-90;329.08;orange
+Feb-90;331.89;orange
+Mar-90;339.94;orange
+Abr-90;330.8;orange
+May-90;361.23;orange
+Jun-90;358.02;orange
+Jul-90;356.15;orange
+Ago-90;322.56;orange
+Set-90;306.05;red
+Oct-90;304;red
+Nov-90;322.22;red
+Dic-90;330.22;red
+Ene-91;343.93;red
+Feb-91;367.07;red
+Mar-91;375.22;red
+Abr-91;375.34;light green
+May-91;389.83;light green
+Jun-91;371.16;light green
+Jul-91;387.81;light green
+Ago-91;395.43;light green
+Set-91;387.86;light green
+Oct-91;392.45;light green
+Nov-91;375.22;light green
+Dic-91;417.09;light green
+Ene-92;408.78;dark green
+Feb-92;412.7;dark green
+Mar-92;403.69;dark green
+Abr-92;414.95;dark green
+May-92;415.35;dark green
+Jun-92;408.14;dark green
+Jul-92;424.21;dark green
+Ago-92;414.03;dark green
+Set-92;417.8;dark green
+Oct-92;418.68;dark green
+Nov-92;431.35;dark green
+Dic-92;435.71;dark green
+Ene-93;438.78;dark green
+Feb-93;443.38;dark green
+Mar-93;451.67;dark green
+Abr-93;440.19;dark green
+May-93;450.19;dark green
+Jun-93;450.53;dark green
+Jul-93;448.13;dark green
+Ago-93;463.56;dark green
+Set-93;458.93;dark green
+Oct-93;467.83;dark green
+Nov-93;461.79;dark green
+Dic-93;466.45;dark green
+Ene-94;481.61;dark green
+Feb-94;467.14;dark green
+Mar-94;445.77;dark green
+Abr-94;450.91;dark green
+May-94;456.5;dark green
+Jun-94;444.27;dark green
+Jul-94;458.26;dark green
+Ago-94;475.49;dark green
+Set-94;462.71;dark green
+Oct-94;472.35;dark green
+Nov-94;453.69;dark green
+Dic-94;459.27;dark green
+Ene-95;470.42;dark green
+Feb-95;487.39;dark green
+Mar-95;500.71;dark green
+Abr-95;514.71;dark green
+May-95;533.4;dark green
+Jun-95;544.75;dark green
+Jul-95;562.06;dark green
+Ago-95;561.88;dark green
+Set-95;584.41;dark green
+Oct-95;581.5;dark green
+Nov-95;605.37;dark green
+Dic-95;615.93;dark green
+Ene-96;636.02;dark green
+Feb-96;640.43;orange
+Mar-96;645.5;orange
+Abr-96;654.17;light green
+May-96;669.12;light green
+Jun-96;670.63;light green
+Jul-96;639.95;light green
+Ago-96;651.99;dark green
+Set-96;687.33;dark green
+Oct-96;705.27;dark green
+Nov-96;757.02;dark green
+Dic-96;740.74;dark green
+Ene-97;786.16;dark green
+Feb-97;790.82;dark green
+Mar-97;757.12;dark green
+Abr-97;801.34;dark green
+May-97;848.28;dark green
+Jun-97;885.14;dark green
+Jul-97;954.31;dark green
+Ago-97;899.47;dark green
+Set-97;947.28;dark green
+Oct-97;914.62;dark green
+Nov-97;955.4;dark green
+Dic-97;970.43;dark green
+Ene-98;980.28;dark green
+Feb-98;1049.34;dark green
+Mar-98;1101.75;dark green
+Abr-98;1111.75;dark green
+May-98;1090.82;dark green
+Jun-98;1133.84;dark green
+Jul-98;1120.67;dark green
+Ago-98;957.28;dark green
+Set-98;1017.01;orange
+Oct-98;1098.67;orange
+Nov-98;1163.63;orange
+Dic-98;1229.23;light green
+Ene-99;1279.64;light green
+Feb-99;1238.33;light green
+Mar-99;1286.37;light green
+Abr-99;1335.18;light green
+May-99;1301.84;light green
+Jun-99;1372.71;light green
+Jul-99;1328.72;light green
+Ago-99;1320.41;dark green
+Set-99;1282.71;dark green
+Oct-99;1362.93;dark green
+Nov-99;1388.91;dark green
+Dic-99;1469.25;dark green
+Ene-00;1394.46;dark green
+Feb-00;1366.42;dark green
+Mar-00;1498.58;dark green
+Abr-00;1452.43;dark green
+May-00;1420.6;dark green
+Jun-00;1454.6;dark green
+Jul-00;1430.83;dark green
+Ago-00;1517.68;orange
+Set-00;1436.51;orange
+Oct-00;1429.4;orange
+Nov-00;1314.95;orange
+Dic-00;1320.28;red
+Ene-01;1366.01;red
+Feb-01;1239.94;red
+Mar-01;1160.33;red
+Abr-01;1249.46;red
+May-01;1255.82;red
+Jun-01;1224.38;red
+Jul-01;1211.23;red
+Ago-01;1133.58;red
+Set-01;1040.94;red
+Oct-01;1059.78;red
+Nov-01;1139.45;red
+Dic-01;1148.08;light green
+Ene-02;1130.2;light green
+Feb-02;1106.73;light green
+Mar-02;1147.39;light green
+Abr-02;1076.92;light green
+May-02;1067.14;light green
+Jun-02;989.82;dark green
+Jul-02;911.62;dark green
+Ago-02;916.07;dark green
+Set-02;815.28;dark green
+Oct-02;885.76;orange
+Nov-02;936.31;orange
+Dic-02;879.82;light green
+Ene-03;855.7;light green
+Feb-03;841.15;light green
+Mar-03;848.18;orange
+Abr-03;916.92;orange
+May-03;963.59;light green
+Jun-03;974.5;light green
+Jul-03;990.31;light green
+Ago-03;1008.01;light green
+Set-03;995.97;light green
+Oct-03;1050.71;light green
+Nov-03;1058.2;light green
+Dic-03;1111.92;light green
+Ene-04;1131.13;light green
+Feb-04;1144.94;light green
+Mar-04;1126.21;light green
+Abr-04;1107.3;dark green
+May-04;1120.68;dark green
+Jun-04;1140.84;dark green
+Jul-04;1101.72;dark green
+Ago-04;1104.24;dark green
+Set-04;1114.58;dark green
+Oct-04;1130.2;dark green
+Nov-04;1173.82;dark green
+Dic-04;1211.92;dark green
+Ene-05;1181.27;dark green
+Feb-05;1203.6;dark green
+Mar-05;1180.59;dark green
+Abr-05;1156.85;dark green
+May-05;1191.5;dark green
+Jun-05;1191.33;dark green
+Jul-05;1234.18;dark green
+Ago-05;1220.33;dark green
+Set-05;1228.81;dark green
+Oct-05;1207.01;dark green
+Nov-05;1249.48;dark green
+Dic-05;1248.29;dark green
+Ene-06;1280.08;dark green
+Feb-06;1280.66;dark green
+Mar-06;1294.87;dark green
+Abr-06;1310.61;dark green
+May-06;1270.09;orange
+Jun-06;1270.2;orange
+Jul-06;1276.66;orange
+Ago-06;1303.82;orange
+Set-06;1335.85;orange
+Oct-06;1377.94;orange
+Nov-06;1400.63;orange
+Dic-06;1418.3;orange
+Ene-07;1438.24;orange
+Feb-07;1406.82;orange
+Mar-07;1420.86;orange
+Abr-07;1482.37;orange
+May-07;1530.62;orange
+Jun-07;1503.35;orange
+Jul-07;1455.27;orange
+Ago-07;1473.99;orange
+Set-07;1526.75;orange
+Oct-07;1549.38;orange
+Nov-07;1481.14;red
+Dic-07;1468.36;red
+Ene-08;1378.55;red
+Feb-08;1330.63;red
+Mar-08;1322.7;red
+Abr-08;1385.59;red
+May-08;1400.38;red
+Jun-08;1280;red
+Jul-08;1267.38;red
+Ago-08;1282.83;red
+Set-08;1166.36;red
+Oct-08;968.75;red
+Nov-08;896.24;red
+Dic-08;903.25;red
+Ene-09;825.88;red
+Feb-09;735.09;red
+Mar-09;797.87;red
+Abr-09;872.81;red
+May-09;919.14;red
+Jun-09;919.32;light green
+Jul-09;987.48;light green
+Ago-09;1020.62;light green
+Set-09;1057.08;light green
+Oct-09;1036.19;light green
+Nov-09;1095.63;light green
+Dic-09;1115.1;light green
+Ene-10;1073.87;light green
+Feb-10;1104.49;light green
+Mar-10;1169.43;light green
+Abr-10;1186.69;dark green
+May-10;1089.41;dark green
+Jun-10;1030.71;dark green
+Jul-10;1101.6;dark green
+Ago-10;1049.33;dark green
+Set-10;1141.2;dark green
+Oct-10;1183.26;dark green
+Nov-10;1180.55;dark green
+Dic-10;1257.64;dark green
+Ene-11;1286.12;dark green
+Feb-11;1327.22;dark green
+Mar-11;1325.83;dark green
+Abr-11;1363.61;dark green
+May-11;1345.2;dark green
+Jun-11;1320.64;dark green
+Jul-11;1292.28;dark green
+Ago-11;1218.89;dark green
+Set-11;1131.42;orange
+Oct-11;1253.3;orange
+Nov-11;1246.96;orange
+Dic-11;1257.6;light green
+Ene-12;1312.41;dark green
+Feb-12;1365.68;dark green
+Mar-12;1408.47;dark green
+Abr-12;1397.91;dark green
+May-12;1310.33;dark green
+Jun-12;1362.16;dark green
+Jul-12;1379.32;dark green
+Ago-12;1406.58;dark green
+Set-12;1440.67;dark green
+Oct-12;1412.16;dark green
+Nov-12;1416.18;dark green
+Dic-12;1426.19;dark green
+Ene-13;1498.11;dark green
+Feb-13;1514.68;dark green
+Mar-13;1569.19;dark green
+Abr-13;1597.57;dark green
+May-13;1630.74;dark green
+Jun-13;1606.28;dark green
+Jul-13;1685.73;dark green
+Ago-13;1632.97;dark green
+Set-13;1681.55;dark green
+Oct-13;1756.54;dark green
+Nov-13;1805.81;dark green
+Dic-13;1848.36;dark green
+Ene-14;1782.59;dark green
+Feb-14;1859.45;dark green
+Mar-14;1872.34;dark green
+Abr-14;1883.95;dark green
+May-14;1923.57;dark green
+Jun-14;1960.23;dark green
+Jul-14;1930.67;dark green
+Ago-14;2003.37;dark green
+Set-14;1972.29;dark green
+Oct-14;2018.05;dark green
+Nov-14;2067.56;dark green
+Dic-14;2058.9;dark green
+Ene-15;1994.99;dark green
+Feb-15;2104.5;dark green
+Mar-15;2067.89;dark green
+Abr-15;2085.51;dark green
+May-15;2107.39;dark green
+Jun-15;2063.11;dark green
+Jul-15;2103.84;dark green
+Ago-15;1972.18;dark green
+Set-15;1920.03;dark green
+Oct-15;2079.36;dark green
+Nov-15;2080.41;dark green
+Dic-15;2043.94;dark green
+Ene-16;1940.24;orange
+Feb-16;1932.23;orange
+Mar-16;2059.74;orange
+Abr-16;2065.3;light green
+May-16;2096.95;light green
+Jun-16;2098.86;light green
+Jul-16;2173.6;light green
+Ago-16;2170.95;light green
+Set-16;2168.27;light green
+Oct-16;2126.15;light green
+Nov-16;2198.81;light green
+Dic-16;2238.83;light green
+Ene-17;2278.87;light green
+Feb-17;2363.64;light green
+Mar-17;2362.72;light green
+Abr-17;2384.2;light green
+May-17;2411.8;light green
+Jun-17;2423.41;light green
+Jul-17;2470.3;dark green
+Ago-17;2471.65;dark green
+Set-17;2519.36;dark green
+Oct-17;2575.26;dark green
+Nov-17;2647.58;dark green
+Dic-17;2673.61;dark green
+Ene-18;2823.81;dark green
+Feb-18;2713.83;dark green
+Mar-18;2640.87;dark green
+Abr-18;2648.05;dark green
+May-18;2705.27;dark green
+Jun-18;2718.37;dark green
+Jul-18;2816.29;dark green
+Ago-18;2901.52;dark green
+Set-18;2913.98;dark green
+Oct-18;2711.74;dark green
+Nov-18;2760.17;dark green
+Dic-18;2506.85;dark green
+Ene-19;2704.1;dark green
+Feb-19;2784.49;dark green
+Mar-19;2834.4;dark green
+Abr-19;2945.83;dark green
+May-19;2752.06;dark green
+Jun-19;2941.76;dark green
+Jul-19;2980.38;dark green
+Ago-19;2926.46;dark green
+Set-19;2976.74;orange
+Oct-19;3037.56;orange
+Nov-19;3140.98;orange
+Dic-19;3230.78;orange
+Ene-20;3225.52;light green
+Feb-20;2954.22;light green
+Mar-20;2584.59;red
+Abr-20;2912.43;red
+May-20;3044.31;red
+Jun-20;3100.29;red
+Jul-20;3271.12;light green
+Ago-20;3500.31;light green
+Set-20;3363;light green
+Oct-20;3269.96;light green
+Nov-20;3621.63;dark green
+Dic-20;3756.07;dark green
+Ene-21;3714.24;dark green
+Feb-21;3811.15;dark green
+Mar-21;3972.89;dark green
+Abr-21;4181.17;dark green
+May-21;4204.11;dark green
+Jun-21;4297.5;dark green
+Jul-21;4395.26;dark green
+Ago-21;4522.68;dark green
+Set-21;4307.54;dark green
+Oct-21;4605.38;dark green
+Nov-21;4567;dark green
+Dic-21;4766.18;dark green
+Ene-22;4515.55;dark green
+Feb-22;4373.94;dark green
+Mar-22;4530.41;dark green
+Abr-22;4131.93;dark green
+May-22;4132.15;dark green
+Jun-22;3785.38;orange
