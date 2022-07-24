@@ -11,3 +11,4 @@ Using the Leading Economic Index produced by the Conference Board, I identify pa
 3. Four_stages_cycle: identifies the four stages of the cycle according to the patterns emerging from 1m, 3m and 6m changes in LEI
 4. Cycle_vs_SP500: behavior of S&P 500 against the backdrop of the four stages of the economic cycle
 5. Cycle_vs_CEI: behavior of CEI against the backdrop of the four stages of the economic cycle
+6. Assets_correlation_all_stages: calculates correlations among all assets and betas against S&P 500
